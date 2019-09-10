@@ -1,3 +1,7 @@
 pip install django
 pip install pillow
+<<<<<<< HEAD
 ###this is the master branch
+=======
+##from exp1
+>>>>>>> exp1
